@@ -1,2 +1,2 @@
 # Hackthon
-Hackthon for Women In Computer Science
+Hackthon for Women In Computer Science Society
